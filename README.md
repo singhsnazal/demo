@@ -1,2 +1,1 @@
-# demo
-Author-snazal singh
+My self snazal singh.
